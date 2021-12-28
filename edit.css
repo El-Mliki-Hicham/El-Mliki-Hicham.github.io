@@ -7,3 +7,20 @@ body{
         180deg ,#475dc5 0,#000000)!important ; 
 
 }
+/* .social-round-icon{
+    background-color:#f65fc4;
+    color:#fff;
+    border-color:#6d6a6b}
+   */
+
+   .fa-icon{
+       color:rgb(18, 5, 207) !important;
+   }
+   a:hover{
+       color:#2600ff !important;text-decoration:none !important;
+    }
+    .social-buttons a:hover .social-round-icon{
+        background-color:#cccddb !important;
+        color:#fff;
+        border-color:#080355 !important}
+    /* .social-round-icon{background-color:#85adf6 !important;color:#fff !important;border-color:#0a0158 !important} */
