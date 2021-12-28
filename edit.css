@@ -20,7 +20,6 @@ body{
        color:#2600ff !important;text-decoration:none !important;
     }
     .social-buttons a:hover .social-round-icon{
-        background-color:#cccddb !important;
+        background-color:#b8bbe2 !important;
         color:#fff;
         border-color:#080355 !important}
-    /* .social-round-icon{background-color:#85adf6 !important;color:#fff !important;border-color:#0a0158 !important} */
