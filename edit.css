@@ -10,14 +10,21 @@ body{
 
    .fa-icon{
        color:rgb(18, 5, 207) !important;
-   }
+    }
+    .fa-icon:hover {
+        
+
+        color:#ffffff !important
+
+
+}
    a:hover{
        color:#2600ff !important;text-decoration:none !important;
     }
 
 
     .social-buttons a:hover .social-round-icon{
-        background-color:#b8bbe2 !important;
+        background-color:#000077 !important;
         color:#fff;
         border-color:#080355 !important
     }
