@@ -42,6 +42,6 @@ body{
 }
 
 .logo{
-width:  119px;
+width:  119px !important;
 
 }
